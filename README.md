@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alanbluefox
-- 👀 I’m interested in Mobile App
-- 🌱 I’m currently learning KOTLIN
-- 💞️ I’m looking to collaborate on Android App design
+- 👀 I’m interested in web3.0
+- 🌱 I’m currently learning solidity
+- 💞️ and designing website
 - 📫 How to reach me 
 
 <!---
