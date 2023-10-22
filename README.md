@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alanbluefox
-- 👀 I’m interested in web3.0
-- 🌱 I’m currently learning solidity
-- 💞️ and designing website
-- 📫 How to reach me 
+- 👀 I'm interested in Machine Learning, OSINT.
+- 🌱 I’m currently learning "Machine Learning"
+- 💞️ Python
+- 📫 How to reach me (may be later) 
 
 <!---
 alanbluefox/alanbluefox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
