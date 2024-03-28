@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @alanbluefox
-- 👀 I'm interested in Machine Learning, OSINT.
+- 👀 I'm interested in Machine Learning,
+- Django,
 - 🌱 I’m currently learning "Machine Learning"
 - 💞️ Python
 - 📫 How to reach me (may be later)
