@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alanbluefox
-- 👀 I'm interested in Machine Learning,
+- 👀 interested in Machine Learning,
 - Django,
 - 🌱 I’m currently learning "Machine Learning"
 - 💞️ Python
