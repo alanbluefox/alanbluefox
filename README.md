@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alanbluefox
 - 👀 interested in Machine Learning,
-- Django,
-- 🌱 I’m currently learning "Machine Learning" and "django"
+- web app with FLASK (before django),
+- 🌱 I’m currently learning "Machine Learning" and "flask"
 - 💞️ Python
 - 📫 How to reach me (may be later)
 - interesting
